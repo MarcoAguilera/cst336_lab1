@@ -46,7 +46,7 @@ in html
                 
                 <p>Thank you for visiting my professional portfolio website.</p>
                 
-                <p>I am a Software Engineer and have been recently hired at the Acme Corporation.</p>
+                <p>I am a student at California State Monterey Bay and a Computer Science Major.</p>
                 
                 <p>Feel free to contact me!</p>
                 
